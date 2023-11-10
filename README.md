@@ -1,6 +1,6 @@
 # NLP-models
 Some models created for machine  learning course.    
-一些逻辑回归，多分类任务，用sklearn写pipeline，CNN，训练神经网络
+一些逻辑回归，多分类任务，pipeline，CNN，pytorch，nn
 
 
 Assignment_1:    
